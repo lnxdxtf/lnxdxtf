@@ -1,4 +1,4 @@
-### Hey 
+### Hey I'm Gabriel, Juniior Python Developer 👩‍💻
 
 <div >
   <a href="https://github.com/lnxdxtf">
