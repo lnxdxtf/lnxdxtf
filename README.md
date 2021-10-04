@@ -1,6 +1,6 @@
 ### Hey I'm Gabriel, Junior Python Developer 👩‍💻
 
-<div >
+<div align="center" >
   <a href="https://github.com/lnxdxtf">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lnxdxtf&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnxdxtf&layout=compact&langs_count=7&theme=ocean_dark"/>
