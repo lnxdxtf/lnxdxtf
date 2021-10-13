@@ -25,5 +25,18 @@
     
   <a href="https://www.linkedin.com/in/gabriel-m-9b7b1b123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
+ ##
+  
+ #### About Me
+ >* Mechanical Engineering Student ⚙️ and Junior Python Developer, who always seeks to apply engineering and programming in their projects.
+ > 
+ > * My first programming language was C and C++, when I was learning to play with arduino.
+ >
+ >*  Now I love Python. ❤️
+ > 
+ >* I'm studying JavaScript and TypeScript. 
+ 
+  ##
+  
   
   
