@@ -40,7 +40,7 @@
  >
  >*  Now I love Python. ❤️
  > 
- >* I'm studying JavaScript and TypeScript. 
+ >* I'm studying JavaScript and TypeScript <img height = "30" width="30" src="https://img.icons8.com/ios/2x/typescript.png"> , and I have to say that I prefer TS than JS.
  
   ##
   
