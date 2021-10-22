@@ -36,7 +36,7 @@
  #### About Me
  >* Mechanical Engineering Student ⚙️ and Junior Python Developer, who always seeks to apply engineering and programming in their projects.
  > 
- > * My first programming language was C and C++, when I was learning to play with arduino.
+ > * My first programming language was NXC, C and C++, when I was learning to play with arduino and Lego Mindstorms NXT 2.0.
  >
  >*  Now I love Python. ❤️
  > 
