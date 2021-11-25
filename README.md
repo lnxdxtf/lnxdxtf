@@ -46,6 +46,3 @@
   
   ![Snake animation](https://github.com/lnxdxtf/lnxdxtf/blob/output/github-contribution-grid-snake.svg)
 
-  
-  <a href="https://github.com/lnxdxtg/github-readme-activity-graph"><img alt="lnxdxtf Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lnxdxtf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
