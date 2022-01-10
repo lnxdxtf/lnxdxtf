@@ -17,9 +17,7 @@
   <img align="center" alt="Gabriel-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-fastapi" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
   <img align="center" alt="Gabriel-opencv" height="30" width="40" src="https://iconape.com/wp-content/files/je/371265/svg/371265.svg">
-   <img align="center" alt="Gabriel-mediapipe" height="30" width="40" src="https://mediapipe.dev/assets/img/brand.svg">
-  <img align="center" alt="Gabriel-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gabriel-c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gabriel-mediapipe" height="30" width="40" src="https://mediapipe.dev/assets/img/brand.svg">
   <img align="center" alt="Gabriel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="Gabriel-gif" height="150" width="150" style="border-radius:75%"; src="https://c.tenor.com/E16qaJbF1HMAAAAC/sate-anime.gif">
   
