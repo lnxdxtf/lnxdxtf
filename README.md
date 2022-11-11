@@ -31,13 +31,15 @@
   
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=lnxdxtf&theme=gotham&hide_border=true&area=true&color=7F00FF)
     
-  <br>
+  </br>
     <p align="centre"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lnxdxtf}/count.svg" /></p> 
+  </br>
   
-  
-    ![](https://count.getloli.com/get/@lnxdxtf.github.readme)
-  
-  
-  <br>
+### Profile Views
+counting of visitors to this page in this section started from November 11, 2022
+
+  ![](https://count.getloli.com/get/@lnxdxtf.github.readme)
+  </br>
+   </p>
 </div>
