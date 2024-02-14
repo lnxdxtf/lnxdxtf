@@ -8,16 +8,30 @@
 
   
 <div align="center" style="display: inline_block"><br>
-
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
-  
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-  <img align="center" height="30" width="40" src="https://www.scylladb.com/wp-content/uploads/pardot_lp-jan-cassandra-scylladb-evolutionary-differences.png"> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <a href="https://www.rust-lang.org/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  </a>
+  <a href="https://vuejs.org/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  </a>
+  <a href="https://www.docker.com/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
+  </a>
+  <a href="https://redis.io/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  </a>
+  <a href="https://www.scylladb.com/">
+    <img align="center" height="30" width="40" src="https://www.scylladb.com/wp-content/uploads/pardot_lp-jan-cassandra-scylladb-evolutionary-differences.png"> 
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  </a>
 </div>
    
 <div align="center">
